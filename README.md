@@ -47,7 +47,7 @@ git clone https://github.com/yourusername/music-player-gui.git
 2. Navigate to the project directory:
 
 ```bash
-cd music-player-gui
+cd music-player-tkinter
 ```
 
 3. Run the Python script to start the music player GUI:
