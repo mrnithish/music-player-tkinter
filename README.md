@@ -41,7 +41,7 @@ pip install pygame
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/music-player-gui.git
+git clone https://github.com/mrnithish/music-player-tkinter.git
 ```
 
 2. Navigate to the project directory:
